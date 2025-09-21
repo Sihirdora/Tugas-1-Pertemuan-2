@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "El Cukurukuk"
+rootProject.name = "IF Unsoed Mobile"
 include(":app")
- 
