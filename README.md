@@ -5,5 +5,7 @@ H1D023115
 ![img alt](https://github.com/Sihirdora/Tugas-1-Pertemuan-2/blob/main/SS%20Pertemuan%202.png?raw=true)
 
 # Tugas-2-Pertemuan-3
-https://github.com/user-attachments/assets/ab185cc7-c77c-47cc-b362-bc2fa7cd468a
+https://github.com/user-attachments/assets/ab86bf17-c12c-4a82-8ae0-b2ad0dbcccee
+
+
 
