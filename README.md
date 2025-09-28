@@ -12,6 +12,7 @@
 ## Video Demo Aplikasi 1
 
 [Demo Video](app/docs/videos/demo.mp4)
+
 https://github.com/user-attachments/assets/2acf04f3-ab8a-4089-a6bc-153050bf0ca6
 
 ## Video Demo Aplikasi 2
