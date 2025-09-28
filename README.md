@@ -20,9 +20,3 @@ https://github.com/user-attachments/assets/2acf04f3-ab8a-4089-a6bc-153050bf0ca6
 [Demo Video](app/docs/videos/demo2.mp4)
 
 https://github.com/user-attachments/assets/9cd62156-d272-4663-855e-cf8fbf25f156
-
-
-=======
-
-
->>>>>>> e847ea4cad2da7bbb8cab0ba133a9feb08f4efde
