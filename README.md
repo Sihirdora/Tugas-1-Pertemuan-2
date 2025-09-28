@@ -9,7 +9,10 @@
 
 ![Tampilan Aplikasi](app/docs/images/screenshot.png)
 
-## Video Demo Aplikasi
+## Video Demo Aplikasi 1
 
 [Demo Video](app/docs/videos/demo.mp4)
 
+## Video Demo Aplikasi 2
+
+[Demo Video](app/docs/videos/demo2.mp4)
