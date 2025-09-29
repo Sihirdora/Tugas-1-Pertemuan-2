@@ -1,0 +1,332 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.databinding:viewbinding:8.13.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\95d9a8618af7f29ccfab4cb351299e15\transformed\viewbinding-8.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\c7ec3e53947ab792d40c2ac927ccbea1\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ce74eb169a1073518fa68622ac9fae38\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4d47771dc67dbc93332b2d7436d3dc71\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\6045dde6d16ddf05bc3a99883d5540f7\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5153a18daf7599208ec4b98458597d69\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\2633a5b047fed351d6f4ef4d226ebc54\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\b4767b1ee4f6a45593962803f28ec817\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\6854d69c790ec92a443374e76a7b9fb4\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\78949d19d0b8e4bf61526c066250360f\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\7cab24b9e1027a836c5a87857c2341bc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\2ebe007bc4e1355fdaaef9195347f7e3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\180642b13ab057d9be9e2b6575c27f78\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f20cf559f6a7975e4057c3dc185b3f5c\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\98424dd0e56231117e84c4479250103a\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\1f532d3dc1c1771f003440390d8b45f8\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\66741f7b96b2eccb7f432a6b163c8921\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\eaebdc4f307d32f8d9f0a84b9194c8fd\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\23f6388326adc14f1f5179e9c875e82f\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\b45aff9f979ecaacba665a511e4b0eaf\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\0d28ad414e7fa27adf8627072b7c4499\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4bec73ea3fa3e8197704fdde55cf12d5\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\15b99e77af5edbeb3b4d0eeadeda8d85\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cfef54d28d5ee6cf982543bd0af49e13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4fd16cef116e56d074091c5b5980ec94\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f4849ea561bfae6060bc67fddbb64c27\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\502d2e2b592dc0664703650d9f1fd862\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\329221442ba586bf9fad6b370a437bea\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\476d0eb265e962dcbaea8fb564152d39\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\55cd76d726f2210ca0900e7659904e27\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ec34a88f8f5f7ecb7618e8989d5369f2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\29e156bc2f84d640676496503186e9b3\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cc9889304e9768203e95d8e7d07a44c5\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f62e63b36d23f65bf6a12143f8635dd8\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\7aed7c3bae570f7e31f16871877988d5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\587c8609d37a5f3e9a6badd33f6ac776\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5f46de504fed121a43285bcad8527c94\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cdd6672ae9e007217a445c960bb756e3\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\9d07f493abe06df11ff32a181d113620\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\851660586a24c8d7f84762c3ece491ed\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ff7d91464acadc6a91c7c3102662ad9a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\58408937a86a717bce28d4d505c314ba\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\1a586c421f5442ced894ca81d7549423\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\3bd9ce625a8c963b662de35914a7a36d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\44fbfc30467dbd45cd594f43376a1086\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:7:5-37:19
+INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:7:5-37:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\c7ec3e53947ab792d40c2ac927ccbea1\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\c7ec3e53947ab792d40c2ac927ccbea1\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ce74eb169a1073518fa68622ac9fae38\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ce74eb169a1073518fa68622ac9fae38\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5f46de504fed121a43285bcad8527c94\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5f46de504fed121a43285bcad8527c94\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\851660586a24c8d7f84762c3ece491ed\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\851660586a24c8d7f84762c3ece491ed\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:15:9-52
+	android:dataExtractionRules
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.example.ifunsoedmobile.DaftarBukuActivity
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:17:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.ifunsoedmobile.Halaman2Activity
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:26:13-45
+activity#com.example.ifunsoedmobile.MainActivity
+ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:exported
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml:29:13-41
+uses-sdk
+INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.13.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\95d9a8618af7f29ccfab4cb351299e15\transformed\viewbinding-8.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\95d9a8618af7f29ccfab4cb351299e15\transformed\viewbinding-8.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\c7ec3e53947ab792d40c2ac927ccbea1\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\c7ec3e53947ab792d40c2ac927ccbea1\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ce74eb169a1073518fa68622ac9fae38\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ce74eb169a1073518fa68622ac9fae38\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4d47771dc67dbc93332b2d7436d3dc71\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4d47771dc67dbc93332b2d7436d3dc71\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\6045dde6d16ddf05bc3a99883d5540f7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\6045dde6d16ddf05bc3a99883d5540f7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5153a18daf7599208ec4b98458597d69\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5153a18daf7599208ec4b98458597d69\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\2633a5b047fed351d6f4ef4d226ebc54\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\2633a5b047fed351d6f4ef4d226ebc54\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\b4767b1ee4f6a45593962803f28ec817\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\b4767b1ee4f6a45593962803f28ec817\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\6854d69c790ec92a443374e76a7b9fb4\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\6854d69c790ec92a443374e76a7b9fb4\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\78949d19d0b8e4bf61526c066250360f\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\78949d19d0b8e4bf61526c066250360f\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\7cab24b9e1027a836c5a87857c2341bc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\7cab24b9e1027a836c5a87857c2341bc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\2ebe007bc4e1355fdaaef9195347f7e3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\2ebe007bc4e1355fdaaef9195347f7e3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\180642b13ab057d9be9e2b6575c27f78\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\180642b13ab057d9be9e2b6575c27f78\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f20cf559f6a7975e4057c3dc185b3f5c\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f20cf559f6a7975e4057c3dc185b3f5c\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\98424dd0e56231117e84c4479250103a\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\98424dd0e56231117e84c4479250103a\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\1f532d3dc1c1771f003440390d8b45f8\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\1f532d3dc1c1771f003440390d8b45f8\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\66741f7b96b2eccb7f432a6b163c8921\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\66741f7b96b2eccb7f432a6b163c8921\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\eaebdc4f307d32f8d9f0a84b9194c8fd\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\eaebdc4f307d32f8d9f0a84b9194c8fd\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\23f6388326adc14f1f5179e9c875e82f\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\23f6388326adc14f1f5179e9c875e82f\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\b45aff9f979ecaacba665a511e4b0eaf\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\b45aff9f979ecaacba665a511e4b0eaf\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\0d28ad414e7fa27adf8627072b7c4499\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\0d28ad414e7fa27adf8627072b7c4499\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4bec73ea3fa3e8197704fdde55cf12d5\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4bec73ea3fa3e8197704fdde55cf12d5\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\15b99e77af5edbeb3b4d0eeadeda8d85\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\15b99e77af5edbeb3b4d0eeadeda8d85\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cfef54d28d5ee6cf982543bd0af49e13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cfef54d28d5ee6cf982543bd0af49e13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4fd16cef116e56d074091c5b5980ec94\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4fd16cef116e56d074091c5b5980ec94\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f4849ea561bfae6060bc67fddbb64c27\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f4849ea561bfae6060bc67fddbb64c27\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\502d2e2b592dc0664703650d9f1fd862\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\502d2e2b592dc0664703650d9f1fd862\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\329221442ba586bf9fad6b370a437bea\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\329221442ba586bf9fad6b370a437bea\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\476d0eb265e962dcbaea8fb564152d39\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\476d0eb265e962dcbaea8fb564152d39\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\55cd76d726f2210ca0900e7659904e27\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\55cd76d726f2210ca0900e7659904e27\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ec34a88f8f5f7ecb7618e8989d5369f2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ec34a88f8f5f7ecb7618e8989d5369f2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\29e156bc2f84d640676496503186e9b3\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\29e156bc2f84d640676496503186e9b3\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cc9889304e9768203e95d8e7d07a44c5\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cc9889304e9768203e95d8e7d07a44c5\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f62e63b36d23f65bf6a12143f8635dd8\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\f62e63b36d23f65bf6a12143f8635dd8\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\7aed7c3bae570f7e31f16871877988d5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\7aed7c3bae570f7e31f16871877988d5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\587c8609d37a5f3e9a6badd33f6ac776\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\587c8609d37a5f3e9a6badd33f6ac776\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5f46de504fed121a43285bcad8527c94\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5f46de504fed121a43285bcad8527c94\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cdd6672ae9e007217a445c960bb756e3\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\cdd6672ae9e007217a445c960bb756e3\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\9d07f493abe06df11ff32a181d113620\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\9d07f493abe06df11ff32a181d113620\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\851660586a24c8d7f84762c3ece491ed\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\851660586a24c8d7f84762c3ece491ed\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ff7d91464acadc6a91c7c3102662ad9a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ff7d91464acadc6a91c7c3102662ad9a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\58408937a86a717bce28d4d505c314ba\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\58408937a86a717bce28d4d505c314ba\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\1a586c421f5442ced894ca81d7549423\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\1a586c421f5442ced894ca81d7549423\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\3bd9ce625a8c963b662de35914a7a36d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\3bd9ce625a8c963b662de35914a7a36d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\44fbfc30467dbd45cd594f43376a1086\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\44fbfc30467dbd45cd594f43376a1086\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sihirdora\Apps Desktop\Documents\Perkuliahan\Semester 5\Praktikum Mobile\Pertemuan1\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5f46de504fed121a43285bcad8527c94\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5f46de504fed121a43285bcad8527c94\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\4a3cefa3eb435c07fab54ac941750461\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.ifunsoedmobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.ifunsoedmobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\5e8fb208e2b272b1dbe3558bd35793b8\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\93c209153dcdd48fec1593f27b72ec0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Sihirdora\.gradle\caches\8.13\transforms\ed7986e5fd15c34501c5d952335452ce\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

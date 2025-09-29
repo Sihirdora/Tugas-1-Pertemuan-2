@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.ifunsoedmobile.app-mergeDebugResources-35:/layout/activity_halaman2.xml",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/activity_halaman2.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-mergeDebugResources-35:/layout/list_buku.xml",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/list_buku.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-mergeDebugResources-35:/layout/activity_daftar_buku.xml",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/activity_daftar_buku.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-mergeDebugResources-35:/layout/layout_menu.xml",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/layout_menu.xml"
+    }
+]

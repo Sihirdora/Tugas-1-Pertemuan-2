@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_lambang_unsoed.png.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/lambang_unsoed.png"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_ic_himpunan.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/ic_himpunan.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_ic_email.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_teknik_unsoed_2.jpeg.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/teknik_unsoed_2.jpeg"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_logo_informatika_unsoed.png.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/logo_informatika_unsoed.png"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/layout_layout_menu.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/layout_menu.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/layout_activity_halaman2.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/activity_halaman2.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/layout_activity_daftar_buku.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/activity_daftar_buku.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_gedung_teknik.jpg.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/gedung_teknik.jpg"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_ic_phone.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/layout_list_buku.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/list_buku.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ifunsoedmobile.app-debug-36:/drawable_ic_location.xml.flat",
+        "source": "com.example.ifunsoedmobile.app-main-38:/drawable/ic_location.xml"
+    }
+]
