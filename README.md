@@ -1,22 +1,14 @@
-# Praktikum Pemrograman Mobile
+# Tugas-1-Pertemuan-2
+Feidinata Artandi 
+H1D023115
 
-## Identitas
-- Nama: Jeskris Oktovianus Silahooy
-- NIM: H1D023003
-- Shift: A
+![img alt](https://github.com/Sihirdora/Tugas-1-Pertemuan-2/blob/main/SS%20Pertemuan%202.png?raw=true)
 
-## Screenshot aplikasi
+# Tugas-2-Pertemuan-3
+https://github.com/user-attachments/assets/ab86bf17-c12c-4a82-8ae0-b2ad0dbcccee
 
-![Tampilan Aplikasi](app/docs/images/screenshot.png)
+# Tugas-3-Pertemuan-4
+https://github.com/user-attachments/assets/3920e323-b1dd-4ea7-a5e1-2dcf587f1bd3
 
-## Video Demo Aplikasi 1
 
-[Demo Video](app/docs/videos/demo.mp4)
 
-https://github.com/user-attachments/assets/2acf04f3-ab8a-4089-a6bc-153050bf0ca6
-
-## Video Demo Aplikasi 2
-
-[Demo Video](app/docs/videos/demo2.mp4)
-
-https://github.com/user-attachments/assets/9cd62156-d272-4663-855e-cf8fbf25f156
